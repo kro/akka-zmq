@@ -1,1 +1,1 @@
-This project was renamed to 'akka-zeromq' and was merged to "Akka":https://github.com/jboner/akka/tree/release-1.3.
+This project was renamed to 'akka-zeromq' and was merged to "Akka":https://github.com/akka/akka/tree/v1.3.
